@@ -39,9 +39,6 @@ Advance Revival System has been tested on various gamemodes including sandbox, b
 
 In the effort of making this addons the best I can for you, please always feel free to suggest new ideas. They will all be taken into consideration. Any errors or bugs found can be taken care of as soon as possible. If you do happen to edit core files then I cannot guarantee a fix for you however I would be glad to assist.
 
-### **Credits**
-[C3] Brock - Banner, and many ideas.
-
 ### **Developers**
 
 Do not worry, I haven't forgotten about my fellow developers. Additional hooks have been documented via the config file located in "advance revival system/lua/revival_config.lua", expect more as additional features are added. 
